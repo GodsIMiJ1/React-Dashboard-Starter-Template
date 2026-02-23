@@ -9,6 +9,13 @@ A beginner-friendly React admin dashboard boilerplate for quick SaaS prototypes.
 
 ![Dashboard Preview](https://placehold.co/1200x600/png?text=Dashboard+Preview)
 
+## Versioning
+
+- Current version: `0.1.0`
+- Changelog: `CHANGELOG.md`
+- Devlog: `DEVLOG.md`
+- Release tags follow Semantic Versioning (`vMAJOR.MINOR.PATCH`)
+
 ## Key Features
 
 - 🔐 **Authentication**: Login page with Formik & Yup validation.
