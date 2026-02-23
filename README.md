@@ -7,7 +7,11 @@
 
 A beginner-friendly React admin dashboard boilerplate for quick SaaS prototypes. Built with modern tools and best practices.
 
-![Dashboard Preview](https://placehold.co/1200x600/png?text=Dashboard+Preview)
+## Screenshots
+
+![Dashboard Light](./public/dashboard-lite.png)
+![Dashboard Dark](./public/dashboard-dark.png)
+![Auth Login](./public/auth-login.png)
 
 ## Versioning
 
