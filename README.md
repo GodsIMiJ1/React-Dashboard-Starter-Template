@@ -1,5 +1,7 @@
 # React Dashboard Starter
 
+![React Dashboard Ad](./public/react_dash_adver.png)
+
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![React](https://img.shields.io/badge/React-18-blue)
 ![Vite](https://img.shields.io/badge/Vite-5-purple)
@@ -64,6 +66,8 @@ Replace the mock logic in `src/pages/Users.tsx` and `src/pages/Login.tsx` with A
 import axios from 'axios';
 const api = axios.create({ baseURL: import.meta.env.VITE_API_BASE_URL });
 ```
+
+![GodsIMiJ Logo](./public/godsimij_logo.png)
 
 ## Deployment
 
